@@ -1,6 +1,6 @@
 <!-- PROJECT SHIELDS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=100&section=header&fontSize=24&fontColor=2F4F4F&animation=fadeIn&reversal=true" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header&fontSize=24&fontColor=000000&animation=fadeIn&reversal=true" width="100%">
 </p>
 
 <div align="center">
@@ -16,65 +16,65 @@
 <br />
 <div align="center">
   <a href="https://github.com/Wilkersonn/holbertonschool-binary_trees">
-    <img src="https://cdn.pixabay.com/photo/2013/07/13/12/32/tree-159619_1280.png" 
+    <img src="https://cdn.prod.website-files.com/6105315644a26f77912a1ada/63eea844ae4e3022154e2878_Holberton.png" 
      alt="Logo" 
-     style="width: 200px; height: 200px; margin-right: 20px;">
+     style="width: 750px; height: 130px; margin-right: 20px;">
   </a>
 
-<h3 align="center" style="color: #8B4513;">🍂 Autumn Binary Trees 🍁</h3>
+<h3 align="center" style="color: #FF0000;">Binary Trees</h3>
 
-  <p align="center" style="color: #A0522D;">
-    Explore the beauty of binary trees in the colors of autumn. This project, undertaken for Holberton School, involves implementing and manipulating binary trees in C, mirroring the complexity and beauty of fall foliage.
+  <p align="center" style="color: #FF0000;">
+    This project, undertaken for Holberton School, involves implementing and manipulating binary trees in C. The goal is to understand binary tree structures, their properties, and various operations such as insertion, deletion, and traversal. Students will enhance their programming skills and deepen their knowledge of data structures through this project.
     <br />
-    <a href="https://github.com/Wilkersonn/holbertonschool-binary_trees"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Wilkersonn/holbertonschool-binary_trees">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/Wilkersonn/holbertonschool-binary_trees/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Wilkersonn/holbertonschool-printf/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Wilkersonn/holbertonschool-binary_trees/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Wilkersonn/holbertonschool-printf/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary style="color: #8B4513;">🍁 Table of Contents</summary>
+  <summary style="color: #FF0000;">Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project" style="color: #A0522D;">About The Project</a>
+      <a href="#about-the-project" style="color: #FF0000;">About The Project</a>
       <ul>
-        <li><a href="#built-with" style="color: #A0522D;">Built With</a></li>
+        <li><a href="#built-with" style="color: #FF0000;">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started" style="color: #A0522D;">Getting Started</a>
+      <a href="#getting-started" style="color: #FF0000;">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites" style="color: #A0522D;">Prerequisites</a></li>
-        <li><a href="#installation" style="color: #A0522D;">Installation</a></li>
+        <li><a href="#prerequisites" style="color: #FF0000;">Prerequisites</a></li>
+        <li><a href="#installation" style="color: #FF0000;">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage" style="color: #A0522D;">Usage</a></li>
-    <li><a href="#roadmap" style="color: #A0522D;">Roadmap</a></li>
-    <li><a href="#contributing" style="color: #A0522D;">Contributing</a></li>
-    <li><a href="#license" style="color: #A0522D;">License</a></li>
-    <li><a href="#contact" style="color: #A0522D;">Contact</a></li>
-    <li><a href="#acknowledgments" style="color: #A0522D;">Acknowledgments</a></li>
+    <li><a href="#usage" style="color: #FF0000;">Usage</a></li>
+    <li><a href="#roadmap" style="color: #FF0000;">Roadmap</a></li>
+    <li><a href="#contributing" style="color: #FF0000;">Contributing</a></li>
+    <li><a href="#license" style="color: #FF0000;">License</a></li>
+    <li><a href="#contact" style="color: #FF0000;">Contact</a></li>
+    <li><a href="#acknowledgments" style="color: #FF0000;">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## 🍂 About The Project
+## About The Project
 
-This project, like the changing colors of autumn leaves, explores the vibrant world of binary trees. Developed by two Holberton School students, Zoyh and Wilkerson, it aims to deepen understanding of tree structures and operations.
+This project was developed by two Holberton School students, Zoyh and Wilkerson.
 
-<p align="right">(<a href="#readme-top" style="color: #8B4513;">back to top</a>)</p>
+<p align="right">(<a href="#readme-top" style="color: #FF0000;">back to top</a>)</p>
 
 ### Built With
 
-* [![C][C-shield]][C-url]
+* [![Next][Next.js]][Next-url]
 
-<p align="right">(<a href="#readme-top" style="color: #8B4513;">back to top</a>)</p>
+<p align="right">(<a href="#readme-top" style="color: #FF0000;">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
